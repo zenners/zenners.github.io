@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cake.png
+alt: image-alt
+repo: http://pinboardmaster9d0b.ninefold-apps.com/
+repo2: https://github.com/zenners/PinBoard
+project-date: January 2015
+client: Personal Project
+category: Web Development
+description: This is a Ruby on Rails Pinterest clone utilizing the following gems Devise, Masonry and Paperclip, and Act as Votable. Users can sign up and post and like photos on the main wall, do basic CRUD operations on posts, and only those signed are authorized to do so. 
+thoughts: After reading Metaprogamming in Ruby, I've come to appreciate and understand Rails and especially Ruby a lot more. This project was born out of excitement and hype with Ruby. I've known about Masonry for a while and this was the perfect chance to finally use it. I will definitely have it handy in my toolbox because it's so cool. 
+challenges: I initially tried to host the images on AmazonS3, but was soon spending way too much time on configuring it to work together. I wanted to focus more on coding with Ruby than tinkering with the cloud stuff. Finding a place to deploy the application other than Heroku was interesting. I finally settled on Ninefold, and after a few tries, I finally got it on the interwebs! This project will serve as my sandbox as I have a lot of things feautures I want to implement here.
+roadmap: <li>Add comments using ReactJS and AJAX</li><li>Add individual boards for users</li><li>Image hosting on the AmazonS3</li><li>Trying oAuth with Rails</li><li>More image size options</li>
+
+
+---

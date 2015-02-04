@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: circus.png
+alt: image-alt
+project-date: Aug 2014
+repo: https://github.com/zenners/Zela-game
+repo2: https://github.com/zenners/Zela-game
+client: Coding Dojo Project
+category: Web Development
+description: This was a browswer game using NodeJS, Express and Sockets. Multiple connections will result in several Links showing up and you can move using WASD. Done using OOP Javascript
+thoughts: This was a fun project to make because I learned so much. I decided not to use any gaming library to do any of the game engine, tile mapping and unit collision. It took me a while to understand how the objects translated themselves on to the screen. Once it clicked, I was able to move a lot quickly. 
+challenges: The day you do a git commit, but forget to git PUSH is the worst. To top it off, I can't find the folder on my computer anymore so I'm stuck with the first version of this. I still remember the Terminal telling me I removed over a hundred lines of code and was so excited! All those hours of tweaking and refactoring gone because I failed to push it to GitHub. Lesson learned. Sad day =(
+roadmap: <li>Fix broadcasting and game engine to show old Links to newer players</li><li>Refactor alot of if statments, use objects</li> <li>Readd obstacles and more sprites</li>
+
+---
